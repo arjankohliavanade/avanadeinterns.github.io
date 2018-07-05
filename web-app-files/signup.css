@@ -2,6 +2,11 @@
 body{
     background:#efefef;
 }
+footer{
+    bottom: 0%;
+    width:100%;
+    position: fixed;
+}
 .form-body{
     background:#fff;
     padding:20px;
@@ -113,4 +118,5 @@ body{
     .sa-innate-form p{
         font-size:13px;
         padding-top:10px;
-    }
+	}
+	

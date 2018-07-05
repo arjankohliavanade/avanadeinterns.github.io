@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://www.ecolab.com/-/media/Ecolab/Ecolab-Home/Images/News/Ecolab_featured_news_image-jpg.jpg);
+    background:#f0f0f0 !important;
     -webkit-background-size: center;
     -moz-background-size: center;
     background-size: center;
@@ -23,3 +23,8 @@ h1{
     padding-left: 38%;
 }
 
+footer{
+    bottom: 0%;
+    width:100%;
+    position: fixed;
+}
