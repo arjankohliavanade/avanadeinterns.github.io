@@ -6,9 +6,21 @@ body{
     background:#fff;
     padding:20px;
 }
-
 footer{
     bottom: 0%;
     width:100%;
     position: fixed;
+}
+.dashboard{
+    display: grid;
+}
+.dashboard-left{
+    grid-column: 1;
+}
+.dashboard-right{
+    grid-column: 2;
+}
+img{
+    width:540px;
+    height: auto;
 }
