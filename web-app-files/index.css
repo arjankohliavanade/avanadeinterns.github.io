@@ -4,6 +4,8 @@ body{
     -moz-background-size: center;
     background-size: center;
     -o-background-size: center;
+    height: 100%;
+    width: 100%;
 }
 
 .jumbotron{
@@ -23,8 +25,11 @@ h1{
     padding-left: 38%;
 }
 
-footer{
+.footer{
     bottom: 0%;
-    width:100%;
-    position: fixed;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    width: 100%;
+    position: sticky !important;
+    overflow: hidden;
 }

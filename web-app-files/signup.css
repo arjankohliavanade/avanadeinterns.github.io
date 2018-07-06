@@ -2,10 +2,13 @@
 body{
     background:#efefef;
 }
-footer{
+.footer{
     bottom: 0%;
-    width:100%;
-    position: fixed;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    width: 100%;
+    position: sticky !important;
+    overflow: hidden;
 }
 .form-body{
     background:#fff;

@@ -1,12 +1,6 @@
-/* form */
 body{
-    background:#f0f0f0;
     height: 100%;
     width: 100%;
-}
-.form-body{
-    background:#fff;
-    padding:20px;
 }
 .footer{
     bottom: 0%;
